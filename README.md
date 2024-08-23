@@ -39,7 +39,7 @@ An e-commerce platform for mobile phones built with React Native and Node.js.
 A fully functional e-commerce website with product listings, user authentication, and payment integration using Laravel and MySQL.
 
 #### [🔗 Portfolio Website](https://hammad.icu)
-A personal portfolio website showcasing my projects and skills, built with React and hosted on GitHub Pages.
+A personal portfolio website showcasing my projects and skills, built with React and hosted on Hostinger.
 
 ---
 
