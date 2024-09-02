@@ -37,7 +37,7 @@ I'm a dedicated Full Stack Web and Mobile Developer with a passion for creating 
 ---
 ### 💼 Professional Experience
 #### **Full Stack Developer at HSM DevLabs**
-_Lahore, Pakistan | June 2022 - Present_
+_Lahore, Pakistan | September 2023 - Present_
 
 - Developed and maintained full-stack applications using React, Node.js, and Laravel.
 - Collaborated with cross-functional teams to design and implement new features, improving the overall user experience.
@@ -45,7 +45,7 @@ _Lahore, Pakistan | June 2022 - Present_
 - Optimized database queries and server performance, reducing load times by 30%.
 
 #### **Front-End Developer at Dev Technologies**
-_Remote | June 2021 - May 2022_
+_Remote | June 2022 - May 2023_
 
 - Designed and implemented responsive web interfaces using React and Bootstrap.
 - Worked closely with designers to translate wireframes into high-quality code.
