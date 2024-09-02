@@ -32,7 +32,25 @@ I'm a dedicated Full Stack Web and Mobile Developer with a passion for creating 
 - **Mobile Development:** React Native, Flutter, Android Studio
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code, Postman, Docker
+- **Tools:** VS Code, Andrioad Studio, Postman, Docker
+
+---
+### 💼 Professional Experience
+#### **Full Stack Developer at HSM DevLabs**
+_Lahore, Pakistan | June 2022 - Present_
+
+- Developed and maintained full-stack applications using React, Node.js, and Laravel.
+- Collaborated with cross-functional teams to design and implement new features, improving the overall user experience.
+- Integrated third-party APIs and payment gateways, ensuring smooth functionality across various platforms.
+- Optimized database queries and server performance, reducing load times by 30%.
+
+#### **Front-End Developer at Dev Technologies**
+_Remote | June 2021 - May 2022_
+
+- Designed and implemented responsive web interfaces using React and Bootstrap.
+- Worked closely with designers to translate wireframes into high-quality code.
+- Enhanced user interactions with custom JavaScript functions, improving engagement by 20%.
+- Contributed to code reviews and maintained a high standard of code quality.
 
 ---
 
@@ -40,11 +58,21 @@ I'm a dedicated Full Stack Web and Mobile Developer with a passion for creating 
 #### [📱 Mobile Store](https://github.com/hammad837/mobilestore)
 An e-commerce mobile app built with React Native and Node.js, designed for seamless user experience.
 
+- **Features:** Product browsing, shopping cart, user authentication, and order tracking.
+- **Technologies:** React Native, Node.js, Express, MongoDB, Firebase Authentication.
+
 #### [🛒 E-Commerce Website](https://github.com/hammad837/ecommerce-site)
 A robust e-commerce platform with product listings, user authentication, and payment integration, developed using Laravel and MySQL.
 
+- **Features:** Secure payment gateway, admin panel, product reviews, and order management.
+- **Technologies:** Laravel, MySQL, Stripe API, jQuery, Bootstrap.
+
 #### [🔗 Portfolio Website](https://hammad.icu)
 My personal portfolio showcasing projects and expertise, created with React and hosted on Hostinger.
+
+- **Features:** Interactive UI, project showcase, and contact form integration.
+- **Technologies:** React, CSS Modules, EmailJS.
+
 
 ---
 
@@ -53,6 +81,8 @@ My personal portfolio showcasing projects and expertise, created with React and 
 - **Clean Code Advocate:** Committed to writing maintainable, high-quality code.
 - **Team Collaborator:** Proven experience in working effectively with cross-functional teams.
 - **Lifelong Learner:** Constantly updating my knowledge to stay ahead in the tech industry.
+- **User-Centric Design:** Focused on delivering exceptional user experiences through intuitive design.
+
 
 ---
 
@@ -73,7 +103,13 @@ My personal portfolio showcasing projects and expertise, created with React and 
 - **Laravel from Scratch** - Laracasts
 - **MySQL Database Design & Management** - Udemy
 - **RESTful API Development with PHP & Laravel** - Codecademy
+- **Web Application Security** - LinkedIn Learning
 - *...and many more!*
+
+---
+### 🎓 Education
+- **Associate Degree in Computer Science** - Virtual Universty, Lahore, Pakistan _(2021 - 2024)_
+- **Relevant Coursework:** Data Structures and Algorithms, Object Orianted Programming, Software Engineering, Database Management Systems, Web Development, Mobile Application Development.
 
 ---
 
