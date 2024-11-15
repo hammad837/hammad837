@@ -104,7 +104,7 @@ My personal portfolio showcasing projects and expertise, created with React and 
 - **MySQL Database Design & Management** - Udemy
 - **RESTful API Development with PHP & Laravel** - Codecademy
 - **Web Application Security** - LinkedIn Learning
-- *...and many more!*
+
 
 ---
 ### 🎓 Education
