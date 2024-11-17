@@ -102,6 +102,65 @@ A personal portfolio showcasing projects and skills.
 
 ---
 
+<section id="certifications" style="font-family: 'Arial', sans-serif; padding: 2rem; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h2 style="text-align: center; font-size: 2rem; color: #333; margin-bottom: 1.5rem;">🏆 Certifications</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #4caf50;">
+      <strong>JavaScript Algorithms and Data Structures</strong> - FreeCodeCamp  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: FCC12345JADS</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #2196f3;">
+      <strong>Advanced PHP Development</strong> - Coursera  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: COU78901APHP</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #ff9800;">
+      <strong>Laravel from Scratch</strong> - Laracasts  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: LCS45678LFS</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #f44336;">
+      <strong>RESTful API Development with Laravel</strong> - Codecademy  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: CDC23456REST</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #9c27b0;">
+      <strong>Web Application Security</strong> - LinkedIn Learning  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: LL54321WAS</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #673ab7;">
+      <strong>React Front-End Development</strong> - Scrimba  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: SCR87654RFE</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #03a9f4;">
+      <strong>MongoDB Basics</strong> - MongoDB University  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: MDB11223BSC</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #8bc34a;">
+      <strong>Node.js: Advanced Concepts</strong> - Udemy  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: UDM56789NAC</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #ff5722;">
+      <strong>Full Stack Web Development Bootcamp</strong> - Zero To Mastery  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: ZTM99887FSWB</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #795548;">
+      <strong>Docker for Developers</strong> - Pluralsight  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: PLS22446DKD</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #607d8b;">
+      <strong>Responsive Web Design</strong> - FreeCodeCamp  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: FCC99876RWD</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #009688;">
+      <strong>Git and GitHub for Beginners</strong> - Udemy  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: UDM44322GGB</span>
+    </li>
+    <li style="background: #fff; margin-bottom: 1rem; padding: 1rem; border-radius: 6px; border-left: 4px solid #3f51b5;">
+      <strong>TypeScript for JavaScript Developers</strong> - LinkedIn Learning  
+      <span style="color: #666; font-size: 0.9rem;">Certificate ID: LL33221TSD</span>
+    </li>
+  </ul>
+</section>
+
+
 ### 🏆 Certifications
 
 - **JavaScript Algorithms and Data Structures** - FreeCodeCamp.  
