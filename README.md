@@ -12,8 +12,9 @@
     <img src="https://img.shields.io/github/followers/hammad837?style=for-the-badge&logo=github&color=green" alt="GitHub Followers">
   </a>
   <a href="https://instagram.com/hammad_837" target="_blank">
-    <img src="https://img.shields.io/instagram/follow/hammad_837?style=for-the-badge&logo=instagram&color=1DA1F2" alt="Instagram Follow">
-  </a>
+    <img src="https://img.shields.io/badge/Follow-hammad_837-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow">
+</a>
+
 </p>
 
 ---
