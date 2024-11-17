@@ -11,8 +11,8 @@
   <a href="https://github.com/hammad837" target="_blank">
     <img src="https://img.shields.io/github/followers/hammad837?style=for-the-badge&logo=github&color=green" alt="GitHub Followers">
   </a>
-  <a href="https://twitter.com/hammad_dev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hammad_dev?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Follow">
+  <a href="https://instagram.com/hammad_837" target="_blank">
+    <img src="https://img.shields.io/instagram/follow/hammad_837?style=for-the-badge&logo=instagram&color=1DA1F2" alt="Instagram Follow">
   </a>
 </p>
 
