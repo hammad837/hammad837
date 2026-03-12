@@ -180,13 +180,14 @@ A modern admin panel used for managing products, users, and analytics.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hammad837&style=flat-square&color=FFD700"/>
 </p>
-## 🐍 Contribution Snake
+
+## 🐍 Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hammad837/hammad837/output/github-snake-dark.svg"/>
 </p>
 
-## 👾 Pacman Contribution
+## 👾 Pacman 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hammad837/hammad837/pacman-output/pacman.svg">
