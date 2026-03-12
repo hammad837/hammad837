@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </p>
 <p align="center">
   <a href="https://hammad.icu"><img src="https://img.shields.io/badge/Portfolio-hammad.icu-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
