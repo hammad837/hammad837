@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+<p align="center">
   <a href="https://hammad.icu"><img src="https://img.shields.io/badge/Portfolio-hammad.icu-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/hammad-idrees-b268792b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hammadicu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
