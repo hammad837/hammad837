@@ -182,4 +182,10 @@ A modern admin panel used for managing products, users, and analytics.
 <p align="center">
 <img src="https://raw.githubusercontent.com/hammad837/hammad837/output/github-snake-dark.svg"/>
 </p>
+
+## 👾 Pacman Contribution
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hammad837/hammad837/pacman-output/pacman.svg">
+</p>
 <p align="center"><i>The best way to predict the future is to create it.</i></p>
