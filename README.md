@@ -181,6 +181,10 @@ A modern admin panel used for managing products, users, and analytics.
 <img src="https://komarev.com/ghpvc/?username=hammad837&style=flat-square&color=FFD700"/>
 </p>
 
+<p align="center"><i>The best way to predict the future is to create it.</i></p>
+
+
+
 ## 🐍 Snake
 
 <p align="center">
@@ -192,4 +196,3 @@ A modern admin panel used for managing products, users, and analytics.
 <p align="center">
 <img src="https://raw.githubusercontent.com/hammad837/hammad837/pacman-output/pacman.svg">
 </p>
-<p align="center"><i>The best way to predict the future is to create it.</i></p>
